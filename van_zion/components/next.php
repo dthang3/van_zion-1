@@ -68,7 +68,7 @@ echo '<a href="page/details.php?id=' . $output2 . '" class="next round">&#8250;<
 $output = $id - 1;
 echo '<a href="page/details.php?id=' . $output . '" class="previous round">&#8249;</a>';
 }
-
+//Test
 ?>
 </body>
 </html>
